@@ -1,4 +1,4 @@
-# FB Ads URL Grouper - Chrome Extension  
+# Facebook Ads URL Grouper - Chrome Extension  
 
 **💰 Price: $15 USD | Available 24/7 on Telegram: [ceferinsoftware](https://t.me/ceferinsoftware)**  
 
