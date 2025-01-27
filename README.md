@@ -1,5 +1,9 @@
 # FB Ads URL Grouper - Chrome Extension  
 
+**💰 Price: $15 USD | Available 24/7 on Telegram: [ceferinsoftware](https://t.me/ceferinsoftware)**  
+
+---
+
 ## 🎯 About  
 
 **FB Ads URL Grouper** is a powerful Chrome extension built for marketing professionals and Facebook ad analysts. This tool streamlines how you analyze the Facebook Ads Library by grouping and filtering ads based on their destination URLs effortlessly.  
@@ -139,10 +143,10 @@
 ## 📞 Support & Contact  
 
 For technical support or inquiries:  
-- **Telegram**: [t.me/ceferinsoftware](https://t.me/ceferinsoftware)  
-- **Email**: Coming soon.  
-- **Website**: Coming soon.  
+- **Telegram**: [ceferinsoftware](https://t.me/ceferinsoftware)  
 
----  
+---
+
+**💰 Price: $15 USD | Available 24/7 on Telegram: [ceferinsoftware](https://t.me/ceferinsoftware)**  
 
 *Developed with ❤️ for digital marketing professionals.*  
